@@ -1,0 +1,19 @@
+{
+  "itemList": [
+    {
+      "itemName": "Wheat Bread",
+      "price": 2.99,
+      "category": "Bakery"
+    },
+    {
+      "itemName": "A2 Whole Milk",
+      "price": 3.99,
+      "category": "Milk"
+    },
+    {
+      "itemName": "Naval Oranges",
+      "price": 4.49,
+      "category": "Fruits"
+    }
+  ]
+}
