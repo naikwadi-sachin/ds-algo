@@ -1,4 +1,12 @@
 {
+  "userList": [
+    {
+      "firstName": "Mark",
+      "lastName": "Taylor",
+      "email": "dummy@mail",
+      "password": "dummy"
+    }
+  ],
   "itemList": [
     {
       "itemName": "Wheat Bread",
